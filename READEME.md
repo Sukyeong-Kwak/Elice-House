@@ -15,19 +15,6 @@
 
 <br>
 
-### 📡 VM <배포용 IP주소> \_\_ (링크, 테스트 계정 생성 필수)
-
-- 배포용 IP 주소
-  kdt-sw-5-team13.elicecoding.com
-
-- 테스트 계정
-  - ID:
-  - PW:
-
-## <br>
-
-<br>
-
 ### 🔎 서비스 소개 및 기능 (with 이미지)
 
 #### 🏡 프로젝트 서비스 소개
@@ -44,9 +31,9 @@
 
 #### ⚙️ 각 기능 간단 소개
 
-<img src="./Elilce-House_p1.png" alt="Elice House 페이지 구성 1">
-<img src="./Elilce-House_p2.png" alt="Elice House 페이지 구성 2">
-<img src="./Elilce-House_p3.png" alt="Elice House 페이지 구성 3">
+<img src="./Elice-House_p1.png" alt="Elice House 페이지 구성 1" width="1000px">
+<img src="./Elice-House_p2.png" alt="Elice House 페이지 구성 2" width="1000px">
+<img src="./Elice-House_p3.png" alt="Elice House 페이지 구성 3" width="1000px">
 
 ## <br>
 
@@ -64,3 +51,5 @@
 <br>
 
 ### 👀 실제 동작 시연 (직접 시연)
+
+<img src="./Elice-House_video.gif" alt="시연 영상" width="1000px">

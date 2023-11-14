@@ -31,9 +31,9 @@
 
 #### ⚙️ 각 기능 간단 소개
 
-![Elice-House_p1](https://github.com/Sukyeong-Kwak/Elice-House/assets/114588184/ffa16a11-5f8a-4205-bd73-d3498d8afdd2)
-![Elice-House_p2](https://github.com/Sukyeong-Kwak/Elice-House/assets/114588184/cc019dfe-7b79-44e0-a7f0-77954137a9df)
-![Elice-House_p3](https://github.com/Sukyeong-Kwak/Elice-House/assets/114588184/5220d7ef-cb2b-4415-9233-445e35ff988d)
+<img src="./Elice-House_p1.png" alt="Elice House 페이지 구성 1" width="1000px">
+<img src="./Elice-House_p2.png" alt="Elice House 페이지 구성 2" width="1000px">
+<img src="./Elice-House_p3.png" alt="Elice House 페이지 구성 3" width="1000px">
 
 ## <br>
 

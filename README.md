@@ -31,6 +31,13 @@
 
 #### ⚙️ 각 기능 간단 소개
 
+##### REST API
+
+<img src="./RestAPI.png" alt="Elice House 기술스택 이미지">
+
+
+##### 각 페이지 소개
+
 <img src="./Elice-House_p1.png" alt="Elice House 페이지 구성 1" width="1000px">
 <img src="./Elice-House_p2.png" alt="Elice House 페이지 구성 2" width="1000px">
 <img src="./Elice-House_p3.png" alt="Elice House 페이지 구성 3" width="1000px">

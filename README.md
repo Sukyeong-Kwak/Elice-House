@@ -31,7 +31,7 @@
 
 #### ⚙️ 각 기능 간단 소개
 
-##### REST API
+##### API
 
 <img src="./RestAPI.png" alt="Elice House 기술스택 이미지">
 
